@@ -1,0 +1,2 @@
+Merge: creates extra merge commit, preserves true history
+Rebase: linear history, cleaner log, rewrites commit hashes
